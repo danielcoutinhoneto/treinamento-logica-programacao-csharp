@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\atividade_1001\atividade_1001\bin\Debug\net5.0\atividade_1001.exe
+C:\Users\danie\source\repos\atividade_1001\atividade_1001\bin\Debug\net5.0\atividade_1001.deps.json
+C:\Users\danie\source\repos\atividade_1001\atividade_1001\bin\Debug\net5.0\atividade_1001.runtimeconfig.json
+C:\Users\danie\source\repos\atividade_1001\atividade_1001\bin\Debug\net5.0\atividade_1001.runtimeconfig.dev.json
+C:\Users\danie\source\repos\atividade_1001\atividade_1001\bin\Debug\net5.0\atividade_1001.dll
+C:\Users\danie\source\repos\atividade_1001\atividade_1001\bin\Debug\net5.0\ref\atividade_1001.dll
+C:\Users\danie\source\repos\atividade_1001\atividade_1001\bin\Debug\net5.0\atividade_1001.pdb
+C:\Users\danie\source\repos\atividade_1001\atividade_1001\obj\Debug\net5.0\atividade_1001.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\atividade_1001\atividade_1001\obj\Debug\net5.0\atividade_1001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\atividade_1001\atividade_1001\obj\Debug\net5.0\atividade_1001.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\atividade_1001\atividade_1001\obj\Debug\net5.0\atividade_1001.AssemblyInfo.cs
+C:\Users\danie\source\repos\atividade_1001\atividade_1001\obj\Debug\net5.0\atividade_1001.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\atividade_1001\atividade_1001\obj\Debug\net5.0\atividade_1001.dll
+C:\Users\danie\source\repos\atividade_1001\atividade_1001\obj\Debug\net5.0\ref\atividade_1001.dll
+C:\Users\danie\source\repos\atividade_1001\atividade_1001\obj\Debug\net5.0\atividade_1001.pdb
+C:\Users\danie\source\repos\atividade_1001\atividade_1001\obj\Debug\net5.0\atividade_1001.genruntimeconfig.cache
